@@ -1,3 +1,4 @@
 https://www3.ntu.edu.sg/home/ehchua/programming/opengl/HowTo_OpenGL_C.html - sessão 2 para codeblocks e sessão 1 para eclipse
 https://stackoverflow.com/questions/16824526/compiled-program-cannot-find-freeglut-dll - problema freeglut não encontrado
 http://www.opengl-tutorial.org/beginners-tutorials/ - tutorial opengl
+https://stackoverflow.com/questions/21210895/mingw-and-glut-undefined-reference-to-imp-glutinitwithexit12 - necessário referencial dentro do link o freeglut,glu32 e opengl32 em todo projeto novo
