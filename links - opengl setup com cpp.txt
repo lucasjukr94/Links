@@ -1,1 +1,2 @@
-https://www3.ntu.edu.sg/home/ehchua/programming/opengl/HowTo_OpenGL_C.html
+https://www3.ntu.edu.sg/home/ehchua/programming/opengl/HowTo_OpenGL_C.html - sessão 2 para codeblocks e sessão 1 para eclipse
+https://stackoverflow.com/questions/16824526/compiled-program-cannot-find-freeglut-dll - problema freeglut não encontrado
