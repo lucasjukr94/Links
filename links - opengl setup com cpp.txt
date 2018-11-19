@@ -3,3 +3,4 @@ https://stackoverflow.com/questions/16824526/compiled-program-cannot-find-freegl
 http://www.opengl-tutorial.org/beginners-tutorials/ - tutorial opengl
 https://stackoverflow.com/questions/21210895/mingw-and-glut-undefined-reference-to-imp-glutinitwithexit12 - necessário referencial dentro do link o freeglut,glu32 e opengl32 em todo projeto novo
 https://learnopengl.com/ - tutoriais
+http://wiki.codeblocks.org/index.php/Using_GLFW_with_Code::Blocks - para configurar o glfw3 no codeblocks
