@@ -5,3 +5,4 @@ https://stackoverflow.com/questions/21210895/mingw-and-glut-undefined-reference-
 https://learnopengl.com/ - tutoriais
 http://wiki.codeblocks.org/index.php/Using_GLFW_with_Code::Blocks - para configurar o glfw3 no codeblocks
 http://nehe.gamedev.net/tutorial/lessons_01__05/22004/ - tutorial freeglut
+http://web.archive.org/web/20150312062347/http://www.opentk.com:80/doc/chapter/0#comment-6401 - opentk documentação
