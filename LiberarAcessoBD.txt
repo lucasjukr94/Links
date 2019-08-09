@@ -1,0 +1,6 @@
+Liberar o acesso ao banco de dados de uma máquina no local
+1) entrar no ssms, no database, Security >> Logins >> new Login >> preencher tudo e as funções e permissões
+2) abrir o firewall do windows com segurança avançada >> regraas de entrada, criar uma nova regra de entrada conforme o link:
+	https://docs.microsoft.com/pt-br/sql/sql-server/install/configure-the-windows-firewall-to-allow-sql-server-access?view=sql-server-2017
+3) abrir o Sql Server Configuration Manager >> Rodar os serviços, SQL Server Browser e talvez o SQL Server Integration Services
+4) reiniciar o ssms e tentar
